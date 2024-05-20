@@ -1,0 +1,16 @@
+body{
+    border: 3px solid black;
+}
+.interes{
+    border: 3px solid black;
+    display: inline-block;
+    padding: 10px;
+}
+.img1{
+    border: 3px solid black;
+    display: inline-block;
+}
+.gan{
+    border: 3px solid black;
+    margin: 25px ;
+}
